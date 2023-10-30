@@ -3,7 +3,7 @@
 
 ### Screenshot
 
-![alt text][Desktop/pacman.jpg]
+![pacman](https://github.com/sshevche-cell/spark-seprep/assets/125435823/b43ceeca-f909-4ccc-9dd4-2fbae117d1cc)
 
 ### Output
 
