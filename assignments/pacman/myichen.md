@@ -1,0 +1,11 @@
+michelle@crc-dot1x-nat-10-239-121-148 frontend % podman logs pacman
+NODE VERSION:
+v18.18.2
+NPM  VERSION:
+9.8.1
+run pacman
+PACMAN auth_details =  pacman:pacman@
+DATABASE URL  mongodb://pacman:pacman@mongodb:27017/pacman
+CONNECTING  mongodb://pacman:pacman@mongodb:27017/pacman
+Options  { readPreference: 'secondaryPreferred' }
+Listening on port 8080
