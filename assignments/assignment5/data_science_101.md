@@ -81,3 +81,7 @@ df = pd.read_csv(url)
 
 **Note:** Students should replace `your_dataset_url` with the actual URL or file path of their chosen dataset. 
 ##### Extra Credit : Additional analyses and inferences beyond the outlined tasks for a more comprehensive understanding.
+
+
+#### How to Submit:
+Create a fork of the repository, add a new branch for this assignment and then create a folder here [https://github.com/DS219/spark-seprep/tree/main/assignments/assignment5/](https://github.com/DS219/spark-seprep/tree/main/assignments/assignment5/) with your name, and add the dataset you choose and jupyter notebook in this folder. After adding it your fork, make a pull request to the upstream repository.
